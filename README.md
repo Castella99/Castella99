@@ -12,4 +12,4 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pytorch Lightning]()
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?logo=pytorchlightning&logoColor=white)
