@@ -1,6 +1,6 @@
 ## Machine Learning & Data Engineer
 - Studying in Medical AI Lab, Inha University
-- Interested in Computer Vision & Signal Processing
+- Interested in Computer Vision & Deep Learning
 - Majored in AI Engineering & Statistics
 
 ## Tech Stack
